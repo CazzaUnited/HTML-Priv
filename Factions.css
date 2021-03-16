@@ -1,0 +1,59 @@
+body{
+background-color:#111;
+}
+h1{
+font-style:italic;
+color:#32CD32;
+}
+h2{
+color:#003399;
+}
+h3{
+color:#003399;
+}
+p{
+color:#FF00FF;
+}
+li {
+  float: left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0000A0;
+}
+
+li {
+  float: lfet;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #62FF00;
+} 
+.factions {
+  font-style: italic;
+  font-weight: bold;
+  color:#32CD32;
+  font-size: 40px;
+}
+.power {
+  font-weight: bold;
+  color:#FFD700;
+  font-size: 40px;
+}
+.whatis {
+  font-weight: bold;
+  color:#ff0000;
+  font-size: 25px;
+}
