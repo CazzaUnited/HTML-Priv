@@ -1,6 +1,7 @@
 body{
 background-color:#111;
 }
+<<<<<<< HEAD
 div.ex{
 width:1500px;
 padding:10px;
@@ -8,6 +9,12 @@ border:5px solid#32CD32;
 margin:0px;
 }
 
+=======
+h1{
+font-style:italic;
+color:#32CD32;
+}
+>>>>>>> 225bec7bc80ba522a707264b3995225fb1c6cd5c
 h2{
 color:#003399;
 }
